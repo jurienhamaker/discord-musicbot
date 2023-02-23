@@ -14,7 +14,7 @@ module.exports = {
 	'24/7': false, // Make the bot stays in VC 24/7 (when you reboot the bot will **not** automatically rejoin.)
 	CookieSecret: 'I am a god', // A cookie for you, cookie for me. make sure you change this value!
 	IconURL:
-		'https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif', // URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+		'https://cdn.discordapp.com/app-icons/1078247641680453704/c5118ee809af0223e57520a4e1e45445.png?size=32', // URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
 	EmbedColor: 'RANDOM', // Color of most embeds | Custom Hex value are supported. I.e: "#36393F"
 	Permissions: 2205281600, // Bot Inviting Permissions
 	Website: process.env.WEBSITE || 'https://example.com', // Website where it is hosted at includes http or https || Use "0.0.0.0" if you using Heroku || Do not include /api/callback. Just the website url. I.e. "https://foo.bar"
