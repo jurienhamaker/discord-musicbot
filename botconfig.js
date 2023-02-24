@@ -1,6 +1,6 @@
 module.exports = {
 	Admins: ['256474214272335872'], // Admins of the bot, I don't know what this do. -Darren.
-	ExpressServer: true, // If you wanted to make the website run or not
+	ExpressServer: false, // If you wanted to make the website run or not
 	DefaultPrefix: process.env.PREFIX || '.', // Default prefix, Server Admins can change the prefix
 	Port: 3000, //Which port website gonna be hosted
 	SupportServer: 'https://discord.gg/pomegranate', // Support Server Link

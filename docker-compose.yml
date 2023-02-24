@@ -9,8 +9,6 @@ services:
             - lavalink-net
         depends_on:
             - lavalink
-        ports:
-            - '$EXPOSED_DASHBOARD_PORT:3000'
         volumes:
             - ./botconfig.js:/usr/src/app/botconfig.js:ro
 
