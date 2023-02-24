@@ -3,7 +3,7 @@ module.exports = {
 	ExpressServer: true, // If you wanted to make the website run or not
 	DefaultPrefix: process.env.PREFIX || '.', // Default prefix, Server Admins can change the prefix
 	Port: 3000, //Which port website gonna be hosted
-	SupportServer: 'https://discord.gg/nHHPYPmnAS', // Support Server Link
+	SupportServer: 'https://discord.gg/pomegranate', // Support Server Link
 	Token: process.env.TOKEN || '', // Discord Bot Token
 	ClientID: process.env.CLIENT_ID || '', // Discord Client ID
 	ClientSecret: process.env.CLIENT_SECRET || '', // Discord Client Secret
